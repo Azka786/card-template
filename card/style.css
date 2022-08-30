@@ -1,0 +1,35 @@
+body{
+    margin: 20px;
+
+}
+.name{
+    text-align:initial;
+    justify-content:left;
+}
+.my-dp{
+    border: 1px solid black;
+  
+    opacity: 1;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    
+}
+.card{
+    padding: 20px;
+    display: flex;
+    justify-content:space-around;
+    margin:0 auto;
+    width: 400px;
+    color:#2b2839;
+    background: rgba(155, 151, 120, 0.459);
+    border-bottom: 8px solid #b7a76c;
+    border-radius: 10px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+.brdr{
+    border: 1px dotted rgb(24, 10, 95);
+}
+
